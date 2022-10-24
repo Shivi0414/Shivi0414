@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shivi0414
+- 👋 Hi, I’m @Shivanshi
 - 👀 I’m interested in Data Analyst / Technical Product Management
 - 🌱 I’m currently learning Analytics.
 - 💞️ I’m looking to collaborate on Competitions
